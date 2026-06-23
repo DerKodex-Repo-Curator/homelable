@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO="Pouzor/homelable"
+REPO="DerKodex/homelable"
 INSTALL_DIR="${HOMELABLE_DIR:-homelable}"
 RAW="https://raw.githubusercontent.com/${REPO}/main"
 STANDALONE=0
